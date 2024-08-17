@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer works</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        nav a {
+            color: #333;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #555;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .about,
+        .skills,
+        .contact {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Freelancer works</h1>
+        <nav>
+            <a href="#about">Hakkımda</a>
+            <a href="#skills">Beceriler</a>
+            <a href="#contact">İletişim</a>
+        </nav>
+    </header>
+
+    <section id="about" class="about">
+        <h2>About</h2>
+        <p>hi i am graphic designer and freelancer this is my official website my services are Below
+            My services:
+            1.Remove object
+            2. Add object
+            3. logo directory
+            4.Ux.Ui design
+            5. Instagram design
+            6. Facebook Design.
+            
+            Thank you.</p>
+    </section>
+
+    <section id="skills" class="skills">
+        <h2>Fiverr skills test</h2>
+        <ul>
+            <li>Adobe Photoshop</li>
+            <li>Graphic Designer</li>
+            <li>Image editing</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2></h2>
+        <p>https://www.fiverr.com/uqasimov22?up_rollout=true
+            Copy and paste this link in google and view my profile.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
